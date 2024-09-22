@@ -1160,11 +1160,13 @@ figure.dotted-bg {
   letter-spacing: .1rem;
   font-weight: 900;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5); }
+  color: rgba(255, 255, 255, 0.5);
+  text-align: center; }
 
 .contact-info-v1 .contact-info-val {
   font-size: 20px;
-  color: #fff; }
+  color: #fff;
+  text-align: center; }
 
 .portfolio-single-inner .heading-portfolio-single-h2 {
   margin-bottom: 40px;
